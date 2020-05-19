@@ -1,0 +1,25 @@
+/* CSS document */
+.bg_red {
+  background-color: #89000d !important;
+}
+.no_border {
+  border: 0 !important;
+}
+.bg_own{
+  background-image: url("../img/test1.png") !important;
+}
+.text_centered {
+  text-align: center !important;
+}
+.text_righted{
+  text-align: right !important;
+}
+.white{
+  color: white !important;
+}
+.text_black>a{
+  color: black !important;
+}
+.pb_30 {
+  padding-bottom: 30px;
+}
